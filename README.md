@@ -9,4 +9,6 @@
 - **Database**: MariaDB
 
 # Project
-- [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>
+- [LIVO](https://github.com/jeong7231/LIVO)<br>ROS2 자율주행 프로젝트
+
+- [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>STM32 IoT 프로젝트

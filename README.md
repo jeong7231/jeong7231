@@ -1,10 +1,10 @@
 # Skills
 
 - **Programming Languages**: C, C++, Python
-- **Operating Systems**: Linux (Ubuntu, Yocto), Windows
+- **Operating Systems**: Ubuntu, Yocto
 - **Embedded Systems**: STM32, AVR, Raspberry Pi, Arduino
 - **BSP**: U-Boot, Linux Kernel, Device Driver, RootFS
-- **Development Tools**: GCC, Makefile, GDB, STM32CubeIDE
+- **Development Tools**: GCC, Makefile, GDB, STM32CubeIDE, Microchip Studio
 - **Libraries & Frameworks**: Qt, ROS2, OpenCV
 - **Database**: MariaDB
 

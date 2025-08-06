@@ -14,5 +14,6 @@
 - [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>STM32 IoT 프로젝트
 
 
-# Study Group
-- [인텔7기 복습·응용 스터디](https://github.com/jeong7231/intel7_review_study)<br>배운 내용 복습·응용
+# Study
+- [인텔7기 복습·응용 스터디 그룹](https://github.com/jeong7231/intel7_review_study)<br>배운 내용 복습·응용
+  - [1st_week_Socket(TCP)](https://github.com/jeong7231/intel7_review_study/tree/main/1st_week/jeong7231)

@@ -1,12 +1,10 @@
 ## Skills
 
-- **Programming Languages**: C, C++, Python
-- **Operating Systems**: Ubuntu, Yocto
-- **Embedded Systems**: STM32, AVR, Raspberry Pi, Arduino
-- **BSP**: U-Boot, Linux Kernel, Device Driver, RootFS
-- **Development Tools**: GCC, Makefile, GDB, STM32CubeIDE, Microchip Studio
-- **Libraries & Frameworks**: Qt, ROS2, OpenCV
-- **Database**: MariaDB
+- C/C++/Python
+- Bootloader, RootFS, Device driver, Linux Kernel, Firmware, freeRTOS
+- Yocto, ROS2
+- STM32, ATmega128, Raspberry pi
+- TCP/IP, UART, I2C, SPI
 
 ## Project
 - [LIVO](https://github.com/jeong7231/LIVO)<br>ROS2 자율주행 프로젝트

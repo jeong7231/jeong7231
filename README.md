@@ -1,4 +1,4 @@
-### Skills
+## Skills
 
 - **Programming Languages**: C, C++, Python
 - **Operating Systems**: Ubuntu, Yocto
@@ -8,11 +8,11 @@
 - **Libraries & Frameworks**: Qt, ROS2, OpenCV
 - **Database**: MariaDB
 
-### Project
+## Project
 - [LIVO](https://github.com/jeong7231/LIVO)<br>ROS2 자율주행 프로젝트
 
 - [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>STM32 IoT 프로젝트
 
-### Learning
+## Learning
 - [Firmware(STM32)](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)
 - [Linux BSP](https://github.com/jeong7231/linux_bsp/tree/main)

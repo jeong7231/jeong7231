@@ -12,5 +12,17 @@
 - [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>STM32 IoT 프로젝트
 
 ## Learning
-- [Firmware(STM32)](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)
-- [Linux BSP](https://github.com/jeong7231/linux_bsp/tree/main)
+### STM32
+> [STM32 신호등 구현](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)
+>
+> Interrupt, Timer/Counter, ADC, PWM
+
+### Device driver
+> [device driver](https://github.com/jeong7231/device_driver)
+>
+> Uart, I2c
+
+### Yocto Project
+> [for Socket server](https://github.com/jeong7231/yocto_tcp_server)
+
+> [for Qt Client](https://github.com/jeong7231/yocto_qt_client)

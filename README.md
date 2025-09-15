@@ -20,7 +20,7 @@
 ### Device driver
 > [device driver](https://github.com/jeong7231/device_driver)
 >
-> Uart, I2c
+> UART, I2C
 
 ### Yocto Project
 > [for Socket server](https://github.com/jeong7231/yocto_tcp_server)

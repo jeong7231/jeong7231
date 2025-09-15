@@ -1,7 +1,7 @@
 ## Skills
 
 - C/C++/Python
-- Bootloader, RootFS, Device driver, Linux Kernel, Firmware, freeRTOS
+- Bootloader, RootFS, Device driver, Linux Kernel, Firmware
 - Yocto, ROS2
 - STM32, ATmega128, Raspberry pi
 - TCP/IP, UART, I2C, SPI

@@ -18,6 +18,9 @@
 > [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>
 > STM32 펌웨어 개발 프로젝트
 
+> [AI Drone Tracking System](https://github.com/SulfurCamp/Intel_AI_Project_Team02)<br>
+> 드론 탐지 및 추적 팬틸트 카메라 프로젝트
+
 ## Learning
 ### STM32
 > [STM32 신호등 구현](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)<br>

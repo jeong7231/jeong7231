@@ -2,27 +2,32 @@
 
 - C/C++/Python
 - Bootloader, RootFS, Device driver, Linux Kernel, Firmware
-- Yocto, ROS2
+- Yocto, ROS2, Qt
 - STM32, ATmega128, Raspberry pi
 - TCP/IP, UART, I2C, SPI
 
 ## Project
-- [LIVO](https://github.com/jeong7231/LIVO)<br>ROS2 자율주행 프로젝트
+> [LIVO](https://github.com/jeong7231/LIVO)<br>
+> ROS2 SLAM, Navigation 프로젝트
+<br>
 
-- [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>STM32 IoT 프로젝트
+> [4륜 독립제어 모빌리티](https://github.com/jeong7231/embeded_system_design)<br>
+> ATmega128 펌웨어 개발 프로젝트
+<br>
+
+> [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>
+> STM32 펌웨어 개발 프로젝트
 
 ## Learning
 ### STM32
-> [STM32 신호등 구현](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)
->
+> [STM32 신호등 구현](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)<br>
 > Interrupt, Timer/Counter, ADC, PWM
 
 ### Device driver
-> [device driver](https://github.com/jeong7231/device_driver)
->
+> [device driver](https://github.com/jeong7231/device_driver)<br>
 > UART, I2C
 
 ### Yocto Project
-> [for Socket server](https://github.com/jeong7231/yocto_tcp_server)
+> [for Socket server](https://github.com/jeong7231/yocto_tcp_server)<br>
 
-> [for Qt Client](https://github.com/jeong7231/yocto_qt_client)
+> [for Qt Client](https://github.com/jeong7231/yocto_qt_client)<br>

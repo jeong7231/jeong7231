@@ -10,7 +10,7 @@
 > [LIVO](https://github.com/jeong7231/LIVO)<br>
 > ROS2 SLAM, Navigation 프로젝트
 
-> [4륜 독립제어 모빌리티](https://github.com/jeong7231/embeded_system_design)<br>
+> [Four-Wheel Independent Steering Vehicle](https://github.com/jeong7231/embeded_system_design)<br>
 > ATmega128 펌웨어 개발 프로젝트
 
 > [Office_IoT](https://github.com/jeong7231/Office_IoT)<br>

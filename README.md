@@ -17,7 +17,7 @@
 > STM32 펌웨어 개발 프로젝트
 
 > [AI Drone Tracking System](https://github.com/SulfurCamp/Intel_AI_Project_Team02)<br>
-> 드론 탐지 및 추적 팬틸트 카메라 프로젝트
+> AI Detection을 이용한 드론 탐지 및 추적 팬틸트 카메라
 
 > [Identification Photo Maker](https://github.com/jeong7231/Intel7_simple_id_photo_maker)<br>
 > 증명사진 촬영, 정장 합성, 배경 합성 GUI 어플리케이션
